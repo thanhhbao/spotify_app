@@ -15,8 +15,8 @@ This project showcases a **modern UI** and demonstrates how to integrate common 
 - 🎧 **Music Playback** – Stream audio tracks with basic controls (play, pause, skip).
 - 🧭 **Intuitive UI** – Clean, user-friendly interface inspired by Spotify's design.
 - 🔍 **Search Functionality** – Easily find songs and artists.
-- 🎼 **Playlist Management** *(optional)* – Create and manage personalized music collections.
-- 📱 **Responsive Design** *(optional)* – Smooth adaptation across different screen sizes.
+- 🎼 **Playlist Management**  – Create and manage personalized music collections.
+- 📱 **Responsive Design**  – Smooth adaptation across different screen sizes.
 
 ---
 
